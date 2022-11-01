@@ -3,7 +3,7 @@ name: "Баг"
 about: "Используйте этот шаблон для описания ошибки в библиотеке"
 title: "[БАГ]: "
 labels: "bug"
-assignees: kesha1225, prostomarkeloff
+assignees: ZeN220, KurimuzonAkuma
 ---
 
 ## Чеклист

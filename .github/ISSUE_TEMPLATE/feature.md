@@ -3,7 +3,7 @@ name: "Запрос функцонала"
 about: "Используйте этот шаблон для описания идеи для нового функционала"
 title: "[ИДЕЯ]: "
 labels: "feature-request"
-assignees: kesha1225, prostomarkeloff
+assignees: ZeN220, KurimuzonAkuma
 ---
 
 
